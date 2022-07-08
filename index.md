@@ -22,7 +22,7 @@ Außerdem sollte eine Netzwerkverbindung bestehen. Eine Netzwerkkonfiguration be
 
 Die EVE-NG Benutzeroberfläche besteht im wesentlichen sehr schlicht und simpel aufgebaut. Auf der unteren Leiste, sieht man gängige Operationen für die virtuellen Labs. Es können virtuelle Labs erstellt, importiert und gelöscht werden. Zudem kann man auch die Ansicht Aktualisieren.
 
-![Eve-NG Übersicht](benutzerhandbuch-nutzung-virtueller-labs/eve-ng-overview.png)
+![Eve-NG Übersicht](docs/assets/eve-ng-overview.png)
 
 ### Was es sonst noch zu beachten gibt
 

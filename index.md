@@ -1,19 +1,23 @@
-## Welcome to GitHub Pages
+## Benutzerhandbuch für Virtuelle Labs im Pentesting Lab
 
-You can use the [editor on GitHub](https://github.com/MrInfusion/benutzerhandbuch-nutzung-virtueller-labs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dies ist das offizielle Benutzerhandbuch für das erstellen und importieren von virtuellen EVE-NG Labs. Außerdem wird hier erklärt, wie man einen Penetrationstest anhand eines Beispiel mit Metasploit durchführt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Vorbereitungen treffen
 
-### Markdown
+Auf dem Pentesting Computer läuft die Linux Distribution Kali Linux. Über den Browser navigiert man auf die EVE-NG Instanz. Folgende Daten sind wichtig für die weitere Nutzung:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**EVE-NG Zugangsinformationen:**
+* IP-Adresse: 10.0.0.200
+* Eingabe mittels https://10.0.0.200
+* Nutzername: admin
+* Passwort: eve
+
+**Pentesting Computer Zugangsinformationen:**
+* Nutzername: pentester
+* Passwort: hacking
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List

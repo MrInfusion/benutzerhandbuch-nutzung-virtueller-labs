@@ -28,7 +28,7 @@ Die EVE-NG Benutzeroberfläche besteht im wesentlichen sehr schlicht und simpel 
 
 Damit mehrere gleichzeitig mit eigenen Labs oder auch gemeinsam an einem Lab arbeiten können, muss ein neuer Nutzer angelegt werden. Dazu geht man in dem Bereich *Management > Usermanagement* und legt dort entsprechend einen neuen Nutzer an
 
-![Nutzer anlegen](benutzerhandbuch-nutzung-virtueller-labs/create-user.png)
+![Nutzer anlegen](docs/assets/create-user.png)
 
 Erforderliche Daten:
 * User Name
